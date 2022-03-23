@@ -1,0 +1,6 @@
+C:\Users\Leonid\RiderProjects\INFSEC\task3\bin\Debug\task3.exe
+C:\Users\Leonid\RiderProjects\INFSEC\task3\bin\Debug\task3.pdb
+C:\Users\Leonid\RiderProjects\INFSEC\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+C:\Users\Leonid\RiderProjects\INFSEC\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\RiderProjects\INFSEC\task3\obj\Debug\task3.exe
+C:\Users\Leonid\RiderProjects\INFSEC\task3\obj\Debug\task3.pdb

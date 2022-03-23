@@ -1,0 +1,6 @@
+C:\Users\Leonid\RiderProjects\INFSEC\INFSEC\bin\Debug\INFSEC.exe
+C:\Users\Leonid\RiderProjects\INFSEC\INFSEC\bin\Debug\INFSEC.pdb
+C:\Users\Leonid\RiderProjects\INFSEC\INFSEC\obj\Debug\INFSEC.csproj.AssemblyReference.cache
+C:\Users\Leonid\RiderProjects\INFSEC\INFSEC\obj\Debug\INFSEC.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\RiderProjects\INFSEC\INFSEC\obj\Debug\INFSEC.exe
+C:\Users\Leonid\RiderProjects\INFSEC\INFSEC\obj\Debug\INFSEC.pdb
